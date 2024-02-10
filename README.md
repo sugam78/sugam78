@@ -1,6 +1,6 @@
 ![logo](https://github.com/sugam78/sugam78/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sugam Paudel</h1>
-<h3 align="center">A passionate flutter app developer</h3>
+<h3 align="center">Flutter App Developer</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 

@@ -1,4 +1,4 @@
-![logo](https://github.com/sugam78/sugam78/blob/main/logo.png)
+![logo](https://github.com/sugam78/sugam78/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sugam Paudel</h1>
 <h3 align="center">A passionate flutter app developer</h3>
 
